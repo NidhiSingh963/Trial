@@ -1,0 +1,28 @@
+python-dateutil
+requests
+spacy==2.3.2
+pke @ git+https://github.com/boudinfl/pke.git@dc4d5f21e0ffe64c4df93c46146d29d1c522476b
+spacy-legacy==3.0.1
+torch
+torchvision
+transformers==3.5.1
+twint
+Unidecode==1.1.2
+urllib3==1.25.9
+XlsxWriter==1.2.9
+pandas
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.3.1/en_core_web_lg-2.3.1.tar.gz
+numpy==1.19.3
+nltk
+scipy
+ipykernel==5.3.0
+ipywidgets==7.5.1
+selectorlib==0.16.0
+datetime
+json5==0.9.5
+jsonschema==3.2.0
+nest-asyncio==1.5.1
+Flask==1.1.2
+regex
+tokenizers==0.9.3
+toolz==0.10.0
